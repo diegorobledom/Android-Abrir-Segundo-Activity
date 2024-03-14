@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="act_bot_1">Segundo Activity</string>
+    <string name="boton">Botón</string>
+    <string name="botonCapturaDatos">Capturar Datos</string>
+    <string name="Act_princ">Actividad Principal</string>
+    <string name="Act_sec">Segunda Actvidad</string>
+    <string name="editText1">Ingrese Nombre</string>
+</resources>
